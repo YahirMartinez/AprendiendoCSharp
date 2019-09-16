@@ -1,1 +1,2 @@
 # AprendiendoCSharp
+ repositorio de ejercicios
